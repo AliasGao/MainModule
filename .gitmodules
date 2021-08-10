@@ -1,0 +1,4 @@
+[submodule "SubModule"]
+	path = SubModule
+	url = git@github.com:AliasGao/SubModule.git
+	branch = main
