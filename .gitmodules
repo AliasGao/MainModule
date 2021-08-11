@@ -2,3 +2,7 @@
 	path = SubModule
 	url = git@github.com:AliasGao/SubModule.git
 	branch = main
+[submodule "SubModule2"]
+	path = SubModule2
+	url = git@github.com:AliasGao/SubModule2.git
+	branch = master
